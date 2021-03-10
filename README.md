@@ -1,30 +1,20 @@
 #githublearn
 ### 这里是锚点1
----
----
----
-'''python
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-print()
-print()
-print()
-print()
-
-print()
-print()
-print()
-print()
-
-
-print()
-print()
-print()
-print()
-
-
-
-'''
----
 
 
 
